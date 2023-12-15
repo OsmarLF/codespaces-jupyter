@@ -1,0 +1,3 @@
+distancia =
+velocidad = 343
+Tiempo = distancia/velocidad
